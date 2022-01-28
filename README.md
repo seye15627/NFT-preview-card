@@ -1,6 +1,14 @@
-Markdown View
-Frontend Mentor - NFT preview card component solution
-This is a solution to the NFT preview card component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+Frontend Mentor - NFT
+ preview card 
+component solution
+
+This is a solution to the NFT preview card
+ component challenge on Frontend Mentor. 
+Frontend Mentor challenges help you 
+improve your coding skills by building 
+realistic projects.
+
 
 Table of contents
 Overview
@@ -14,7 +22,12 @@ Continued development
 Useful resources
 Author
 Acknowledgments
-Note: Delete this note and update the table of contents based on what sections you keep.
+
+
+Note: Delete this note and update the table 
+of contents based on what sections 
+you keep.
+
 
 Overview
 The challenge

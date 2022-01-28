@@ -1,0 +1,71 @@
+ 
+
+*,
+*:before,
+*:after { 
+  -webkit-box-sizing: border-box;                
+     -moz-box-sizing: border-box;   
+          box-sizing: border-box;
+}
+
+
+body {
+				background: hsl(217, 54%, 11%);
+				font: 300 18px/22px "Open Sans","Helvetica Neue";
+				color: hsl(215, 51%, 70%);
+				line-height: 44x;
+				letter-spacing: 2px;
+				width: 1000px;
+}
+.card-container {
+				background: hsl(216, 50%, 16%);
+				width: 60%;
+				margin: 20%;
+				border-radius: 22px;
+				padding: 50px;			
+}
+
+.equil {
+				border-radius: 12px;
+				width: 100%;
+}
+h1 {
+				color: hsl(0, 0%, 100%);
+				padding: 22px 0;
+}
+h2 {
+				color: hsl(178, 100%, 50%);
+}
+h3 {
+				font-size: 18px;
+				font-weight: 300;
+}
+p {
+				
+				margin-right: 90px;
+}
+.time {
+				display: flex;
+				justify-content: space-between;
+				border-bottom: 2px solid hsl(215, 32%, 27%);
+}
+.ava {
+				width: 60px;
+}
+.creator {
+				display: flex;
+				padding: 22px 0;
+}
+.creator h3 {
+				margin-left: 22px;
+}
+span {
+				color: hsl(0, 0%, 100%);
+}
+
+@media screen and (min-width:375px) and (max-width: 1440px) {
+				.card-container {
+				width: 600px;
+				margin: 200px;	
+       }
+}

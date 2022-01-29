@@ -52,7 +52,7 @@ Links
 
 Solution URL: Add solution URL here
 
-Live Site URL: Add live site URL here
+Live Site URL: https://seye15627.github.io/NFT-preview-card/
 
 
 My process
